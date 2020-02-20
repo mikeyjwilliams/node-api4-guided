@@ -4,6 +4,7 @@
 		"watch": "nodemon index.js"
 	},
 	"devDependencies": {
+		"dotenv": "^8.2.0",
 		"nodemon": "^2.0.2"
 	},
 	"dependencies": {
